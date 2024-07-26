@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@text='Sorry, this user has been locked out.']"
+}

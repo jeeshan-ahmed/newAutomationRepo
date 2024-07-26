@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@text='Provided credentials do not match any user in this service.']"
+}
